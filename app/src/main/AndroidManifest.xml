@@ -27,7 +27,7 @@
             android:name=".ShopkeeperLog"
             android:label="@string/shopkeeper">
         </activity>
-        <hai></hai>
+        <hai>hello rosi</hai>
 
 
     </application>
